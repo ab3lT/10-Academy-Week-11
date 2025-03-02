@@ -144,3 +144,81 @@ dtype: int64}
 2025-03-02 23:04:06,896 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
 2025-03-02 23:04:06,917 - logger_setup - INFO - Outliers detected using Iqr method.
 2025-03-02 23:04:07,726 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close
+2025-03-02 23:18:44,493 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume            int64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:48,514 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:50,803 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-02 23:18:55,669 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            1.179915e+02
+High            1.206401e+02
+Low             1.152106e+02
+Close           1.179612e+02
+Volume          1.113142e+08
+Rolling_Mean    1.168871e+02
+Rolling_Std     9.706029e+00
+dtype: float64, 'median': Open            3.144000e+01
+High            3.264000e+01
+Low             2.999185e+01
+Close           3.078435e+01
+Volume          9.205712e+07
+Rolling_Mean    3.638233e+01
+Rolling_Std     3.954386e+00
+dtype: float64, 'std_dev': Open            1.167260e+02
+High            1.194159e+02
+Low             1.138183e+02
+Close           1.166245e+02
+Volume          7.422773e+07
+Rolling_Mean    1.139738e+02
+Rolling_Std     1.140573e+01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
