@@ -222,3 +222,155 @@ Volume           0
 Rolling_Mean    29
 Rolling_Std     29
 dtype: int64}
+2025-03-03 22:29:57,198 - logger_setup - ERROR - Data file for symbol 'TSLA' not found. Run `get_data()` first.
+2025-03-03 22:31:30,758 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume            int64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,090 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,155 - logger_setup - INFO - Data inspection results:
+{'data_types': Open            float64
+High            float64
+Low             float64
+Close           float64
+Volume          float64
+Rolling_Mean    float64
+Rolling_Std     float64
+dtype: object, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64, 'duplicate_rows': np.int64(0)}
+2025-03-03 22:31:31,271 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            1.179915e+02
+High            1.206401e+02
+Low             1.152106e+02
+Close           1.179612e+02
+Volume          1.113142e+08
+Rolling_Mean    1.168871e+02
+Rolling_Std     9.706029e+00
+dtype: float64, 'median': Open            3.144000e+01
+High            3.264000e+01
+Low             2.999185e+01
+Close           3.078435e+01
+Volume          9.205712e+07
+Rolling_Mean    3.638233e+01
+Rolling_Std     3.954386e+00
+dtype: float64, 'std_dev': Open            1.167260e+02
+High            1.194159e+02
+Low             1.138183e+02
+Close           1.166245e+02
+Volume          7.422773e+07
+Rolling_Mean    1.139738e+02
+Rolling_Std     1.140573e+01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,340 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            7.521512e+01
+High            7.532047e+01
+Low             7.509896e+01
+Close           7.521100e+01
+Volume          4.413582e+06
+Rolling_Mean    7.525874e+01
+Rolling_Std     4.535524e-01
+dtype: float64, 'median': Open            7.331000e+01
+High            7.340805e+01
+Low             7.319410e+01
+Close           7.328880e+01
+Volume          3.981285e+06
+Rolling_Mean    7.325709e+01
+Rolling_Std     3.543069e-01
+dtype: float64, 'std_dev': Open            4.932565e+00
+High            4.934177e+00
+Low             4.927229e+00
+Close           4.931971e+00
+Volume          2.771375e+06
+Rolling_Mean    4.909523e+00
+Rolling_Std     3.107786e-01
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,427 - logger_setup - INFO - Basic statistics calculated for data:
+{'mean': Open            3.245429e+02
+High            3.262957e+02
+Low             3.226285e+02
+Close           3.245887e+02
+Volume          9.260453e+07
+Rolling_Mean    3.238707e+02
+Rolling_Std     6.370660e+00
+dtype: float64, 'median': Open            2.863860e+02
+High            2.875165e+02
+Low             2.851570e+02
+Close           2.863460e+02
+Volume          8.022022e+07
+Rolling_Mean    2.869206e+02
+Rolling_Std     5.521314e+00
+dtype: float64, 'std_dev': Open            1.185129e+02
+High            1.190903e+02
+Low             1.178414e+02
+Close           1.185131e+02
+Volume          5.081934e+07
+Rolling_Mean    1.165802e+02
+Rolling_Std     4.413198e+00
+dtype: float64, 'missing_values': Open             0
+High             0
+Low              0
+Close            0
+Volume           0
+Rolling_Mean    29
+Rolling_Std     29
+dtype: int64}
+2025-03-03 22:31:31,520 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:32,449 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:32,483 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:33,285 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:33,315 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:34,280 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:34,437 - logger_setup - INFO - Outliers handled across all data sources.
+2025-03-03 22:31:34,562 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:35,520 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:35,563 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:36,756 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
+2025-03-03 22:31:36,798 - logger_setup - INFO - Outliers detected using Iqr method.
+2025-03-03 22:31:38,073 - logger_setup - INFO - No outliers detected in columns: Open, High, Low, Close, Rolling_Mean, Rolling_Std
