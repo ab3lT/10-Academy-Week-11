@@ -46,8 +46,8 @@ Historical data includes Open, High, Low, Close, Volume, and Adjusted Close pric
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/epythonlab/gmf-investments-portfolio-forecasting.git
-   cd gmf-investments-portfolio-forecasting
+   git clone https://github.com/ab3lt/10-Acadamy-Week-11.git
+   cd 10-Acadamy-Week-11
    ```
 
 2. **Install dependencies**:
