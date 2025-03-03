@@ -18,7 +18,7 @@ Data is sourced using the [YFinance](https://pypi.org/project/yfinance/) library
 - **Vanguard Total Bond Market ETF (BND)**: A bond ETF for stability and income.
 - **S&P 500 ETF (SPY)**: An ETF representing U.S. market exposure.
 
-Historical data includes Open, High, Low, Close, Volume, and Adjusted Close prices from **January 1, 2015, to December 31, 2024**.
+Historical data includes Open, High, Low, Close, Volume, and Adjusted Close prices from **January 1, 2015, to January 31, 2025**.
 
 ## Technologies Used
 
